@@ -4,6 +4,7 @@ public class Car {
     }
     public static void buy() {
         System.out.println("I will buy this car");
+        System.out.println(" Da da da");
     }
     int carSpeed = 0;
 }
